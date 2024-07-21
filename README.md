@@ -1,3 +1,5 @@
+My solutions to zigglings, see original project repo [here](https://codeberg.org/ziglings/exercises/):
+
 # Ziglings
 
 Welcome to Ziglings! This project contains a series of tiny
